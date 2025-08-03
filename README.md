@@ -4,7 +4,11 @@ siehe es an wie ein Schweizer Taschenmesser, im selben Moment dient es dazu das 
 Momentan beinhaltet das Projekt:
 
 Planetside user.ini aufrufen (zum schnellen bearbeiten der Einstellungen über den normalen Limits)
+
 Ein Basic Autoklicker
+
 Hell- und Dunkelmodus
+
+
 
 Weitere Vorschläge werden von meinen Freunden und Kollegen über Discord gegeben, aber alternativ kannst du auch Vorschläge bzw. Ideen hier hinterlassen.
