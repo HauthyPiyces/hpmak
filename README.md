@@ -5,7 +5,9 @@ Momentan beinhaltet das Projekt:
 
 Planetside user.ini aufrufen (zum schnellen bearbeiten der Einstellungen über den normalen Limits)
 
-Ein Basic Autoklicker
+Ein Basic Autoklicker,
+
+RAM- und CPU limiter für Neugestartete anwendungen, 
 
 Hell- und Dunkelmodus
 
