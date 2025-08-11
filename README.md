@@ -9,6 +9,6 @@ Ein Basic Autoklicker,
 
 RAM- und CPU limiter für Neugestartete anwendungen,
 
-
+Ressourcen nutzungs overlay
 
 Weitere Vorschläge werden von meinen Freunden und Kollegen über Discord gegeben, aber alternativ kannst du auch Vorschläge bzw. Ideen hier hinterlassen.
