@@ -7,9 +7,7 @@ Momentan beinhaltet das Projekt:
 
 Ein Basic Autoklicker,
 
-RAM- und CPU limiter für Neugestartete anwendungen, 
-
-Hell- und Dunkelmodus
+RAM- und CPU limiter für Neugestartete anwendungen,
 
 
 
