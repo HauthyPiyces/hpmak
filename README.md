@@ -3,7 +3,7 @@ siehe es an wie ein Schweizer Taschenmesser, im selben Moment dient es dazu das 
 
 Momentan beinhaltet das Projekt:
 
-Planetside UserOptions.ini editor (zum schnellen bearbeiten der Einstellungen über den normalen Limits)
+
 
 Ein Basic Autoklicker,
 
