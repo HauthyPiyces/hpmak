@@ -9,7 +9,7 @@ Ein Basic Autoklicker,
 
 RAM- und CPU limiter für Neugestartete anwendungen,
 
-Ressourcen nutzungs Overlay
+Ressourcen nutzungs Overlay (minimal umfärbbar)
 
 KeyOverlay
 
