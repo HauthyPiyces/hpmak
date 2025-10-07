@@ -1,5 +1,5 @@
-Dies ist ein kleines privates Projekt was die "wichtigsten" bzw. nützlichsten tools die man so vielleicht brauchen könnte an seinem PC einbinden soll,
-siehe es an wie ein Schweizer Taschenmesser, im selben Moment dient es dazu das ich Coding lernen kann.
+Dies ist ein kleines Projekt geteilet unter kollegen was die "wichtigsten" bzw. nützlichsten tools die man so vielleicht brauchen könnte an seinem PC einbinden soll,
+siehe es an wie ein Schweizer Taschenmesser, im selben Moment dient es als training für mich.
 
 # Momentan beinhaltet das Projekt:
 
