@@ -1,5 +1,10 @@
 Verlauf des Projekts
 
+07.10.2025
+
+Speicher scan, scannt den angegebenen ordner und listet den verbrauchten speiche in MB, 
+nutzt kein multithreading und bleibt somit langsammer aber auch weniger ressourcen intensiv.
+
 14.9.2025
 
 Besseres downloaden von updates, wen exe im download order (weil du sie von da warscheinlich verwendest)
