@@ -4,6 +4,7 @@ siehe es an wie ein Schweizer Taschenmesser, im selben Moment dient es dazu das 
 # Momentan beinhaltet das Projekt:
 
 
+Speicher Scan (zeigt an in MB)
 
 Ein Basic Autoklicker,
 
