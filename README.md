@@ -4,7 +4,7 @@ siehe es an wie ein Schweizer Taschenmesser, im selben Moment dient es als train
 # Momentan beinhaltet das Projekt:
 
 
-Speicher Scan (zeigt an in MB)
+Festplatten Scanner/Ordner (zeigt an in MB) mit lösch optionen.
 
 Ein Basic Autoklicker,
 
