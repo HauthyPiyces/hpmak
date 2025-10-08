@@ -3,7 +3,7 @@ Dies ist ein kleines Projekt geteilet unter kollegen was die "wichtigsten" bzw. 
 # Momentan beinhaltet das Projekt:
 
 
-Festplatten Scanner/Ordner (zeigt an in MB) mit lösch optionen.
+Festplatten Scanner/Ordner (zeigt an in B,KB,MB,GB,TB) mit lösch optionen.
 
 Ein Basic Autoklicker,
 
