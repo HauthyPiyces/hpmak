@@ -13,4 +13,4 @@ Ressourcen nutzungs Overlay (minimal umfärbbar)
 
 KeyOverlay
 
-Weitere Vorschläge werden von meinen Freunden und Kollegen über Discord gegeben, aber alternativ kannst du auch Vorschläge bzw. Ideen hier hinterlassen.
+Weitere Vorschläge werden von Freunden und Kollegen über diverse platformen gegeben, hier können auch vorschläge hinterlassen werden alle sind willkommen.
