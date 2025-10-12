@@ -3,7 +3,9 @@ Dies ist ein kleines Projekt geteilet unter kollegen was die "wichtigsten" bzw. 
 # Momentan beinhaltet das Projekt:
 
 
-Festplatten Scanner/Ordner (zeigt an in B,KB,MB,GB,TB) mit lösch optionen.
+Integrierter Festplatten/Ordner Scanner (WinDirStats)
+
+Integrierter und teilweise übersetzter DLC-Unlocker (Cream)
 
 Ein Basic Autoklicker,
 
@@ -12,6 +14,8 @@ RAM- und CPU limiter für Neugestartete anwendungen,
 Ressourcen nutzungs Overlay (minimal umfärbbar)
 
 KeyOverlay
+
+Automatisches Rejoinen nach Internetausfall/Lag/AFK kick und alles was ähnnlich aussieht wie diese fehler meldungen (Roblox)
 
 Weitere Vorschläge werden von Freunden und Kollegen über diverse platformen gegeben, hier können auch vorschläge hinterlassen werden alle sind willkommen.
 
