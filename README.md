@@ -18,6 +18,11 @@ Weitere Vorschläge werden von Freunden und Kollegen über diverse platformen ge
 
 
 ## Verlauf des Projekts
+
+## 12.10.2025
+
+(Roblox) Automatisches Rejoinen nach Lag/Internetausfall/AFK kick/ oder meldungen die ähnnlich aussehen.
+
 ## 10.10.2025
 
 Eigendes Ordner scanner system gelöscht, 
