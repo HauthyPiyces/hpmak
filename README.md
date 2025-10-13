@@ -23,6 +23,11 @@ Weitere Vorschläge werden von Freunden und Kollegen über diverse platformen ge
 
 ## Verlauf des Projekts
 
+## 13.10.2025
+
+Kleine Ui überarbeitungen,
+Ein Paar Einstellungsmöglichkeiten hinzugefügt für die Overlays (Andere Funktionen->Diverse Einstellungen)
+
 ## 12.10.2025
 
 (Roblox) Automatisches Rejoinen nach Lag/Internetausfall/AFK kick/ oder meldungen die ähnnlich aussehen.
