@@ -25,6 +25,9 @@ Weitere Vorschläge werden von Freunden und Kollegen über diverse platformen ge
 
 ## 13.10.2025
 
+Text Speicher hinzugefügt, 
+titel (genutzt zum laden) + inhalt (welcher gespeichert werden soll)
+
 Bennenungsfehler behoben der nach update am selben tag vergessen wurde,
 Einstellungen etwas sortiert,
 
