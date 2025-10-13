@@ -25,6 +25,9 @@ Weitere Vorschläge werden von Freunden und Kollegen über diverse platformen ge
 
 ## 13.10.2025
 
+Bennenungsfehler behoben der nach update am selben tag vergessen wurde,
+Einstellungen etwas sortiert,
+
 Kleine Ui überarbeitungen,
 Ein Paar Einstellungsmöglichkeiten hinzugefügt für die Overlays (Andere Funktionen->Diverse Einstellungen)
 
