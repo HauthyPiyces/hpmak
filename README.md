@@ -2,6 +2,7 @@ Dies ist ein kleines Projekt geteilet unter kollegen was die "wichtigsten" bzw. 
 
 # Momentan beinhaltet das Projekt:
 
+Text Speicher (Titel (genutzt zum laden) + Inhalt (welcher gespeichert werden soll))
 
 Integrierter Festplatten/Ordner Scanner (WinDirStats)
 
@@ -26,7 +27,7 @@ Weitere Vorschläge werden von Freunden und Kollegen über diverse platformen ge
 ## 13.10.2025
 
 Text Speicher hinzugefügt, 
-titel (genutzt zum laden) + inhalt (welcher gespeichert werden soll)
+Titel (genutzt zum laden) + Inhalt (welcher gespeichert werden soll)
 
 Bennenungsfehler behoben der nach update am selben tag vergessen wurde,
 Einstellungen etwas sortiert,
