@@ -35,11 +35,11 @@ Einstellungen etwas sortiert,
 Kleine Ui überarbeitungen,
 Ein Paar Einstellungsmöglichkeiten hinzugefügt für die Overlays (Andere Funktionen->Diverse Einstellungen)
 
-#### 12.10.2025
+### 12.10.2025
 
 (Roblox) Automatisches Rejoinen nach Lag/Internetausfall/AFK kick/ oder meldungen die ähnnlich aussehen.
 
-#### 10.10.2025
+### 10.10.2025
 
 Eigendes Ordner scanner system gelöscht, 
 WinDirStat integriert,
