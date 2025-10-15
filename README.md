@@ -2,6 +2,8 @@ Dies ist ein kleines Projekt geteilet unter kollegen was die "wichtigsten" bzw. 
 
 # Momentan beinhaltet das Projekt:
 
+Youtube Downloader (WICHTIG, weitere infos im Verlauf sichtbar)
+
 Text Speicher (Titel (genutzt zum laden) + Inhalt (welcher gespeichert werden soll))
 
 Integrierter Festplatten/Ordner Scanner (WinDirStats https://windirstat.net/)
@@ -23,6 +25,13 @@ Weitere Vorschläge werden von Freunden und Kollegen über diverse platformen ge
 
 
 ## Verlauf des Projekts
+
+### 15.10.2025
+
+Youtube Downloader hinzugefügt,
+Lädt ein einzelnes Video über eine Website herrunter mit Höchst möglicher Qualität voll automatisch und sichtbar,
+Playlists funktionieren über die website anscheinend nicht,
+eigentlich wollte ich eine Anwendung dafür machen und diese integrieren jedoch sind die Libarys dafür momentan outdated und funktionieren somit nicht,
 
 ### 13.10.2025
 
