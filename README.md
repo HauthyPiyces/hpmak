@@ -4,9 +4,9 @@ Dies ist ein kleines Projekt geteilet unter kollegen was die "wichtigsten" bzw. 
 
 Text Speicher (Titel (genutzt zum laden) + Inhalt (welcher gespeichert werden soll))
 
-Integrierter Festplatten/Ordner Scanner (WinDirStats)
+Integrierter Festplatten/Ordner Scanner (WinDirStats https://windirstat.net/)
 
-Integrierter und teilweise übersetzter DLC-Unlocker (Cream)
+Integrierter und teilweise übersetzter DLC-Unlocker (Cream https://github.com/pointfeev/CreamInstaller)
 
 Ein Basic Autoklicker,
 
