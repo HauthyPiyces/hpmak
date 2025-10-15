@@ -12,7 +12,7 @@ Integrierter und teilweise übersetzter DLC-Unlocker (Cream https://github.com/p
 
 Ein Basic Autoklicker,
 
-RAM- und CPU limiter für Neugestartete anwendungen,
+RAM- und CPU limiter für Neugestartete anwendungen (zu niedrige limits = meist absturz),
 
 Ressourcen nutzungs Overlay (minimal umfärbbar)
 
