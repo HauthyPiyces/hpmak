@@ -26,6 +26,10 @@ Weitere Vorschläge werden von Freunden und Kollegen über diverse platformen ge
 
 ## Verlauf des Projekts
 
+### 17.10.2025
+
+Temporär einfach einen cooldown von 30 sekunden für die YT Downloader web integration eingefügt, da ich offensichtlich es nicht hinbekomme richtig die lade phase der website zu tracken.
+
 ### 15.10.2025
 
 Youtube Downloader hinzugefügt,
