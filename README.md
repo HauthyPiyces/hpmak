@@ -2,7 +2,7 @@ Dies ist ein kleines Projekt geteilet unter kollegen was die "wichtigsten" bzw. 
 
 # Momentan beinhaltet das Projekt:
 
-Youtube Downloader (WICHTIG, weitere infos im Verlauf sichtbar)
+Youtube Web Downloader
 
 Text Speicher (Titel (genutzt zum laden) + Inhalt (welcher gespeichert werden soll))
 
@@ -25,6 +25,10 @@ Weitere Vorschläge werden von Freunden und Kollegen über diverse platformen ge
 
 
 ## Verlauf des Projekts
+
+### 18.10.2025
+
+Multi Download für den Youtube Web Downloader hinzugefügt.
 
 ### 17.10.2025
 
