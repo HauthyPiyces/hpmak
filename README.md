@@ -31,7 +31,7 @@ Weitere Vorschläge werden von Freunden und Kollegen über diverse platformen ge
 Die Einstellungs datei wurde jetzt in den "Appdata" Ordner verlegt um einen Zentralen Ort zu haben,
 das selbe gilt für Ordner benötigt für Image recognition, für die Roblox Auto Rejoin Funktion als Beispiel. 
 
-Die Datei die deine Gespeicherten Texte speichert lokal verschlüsselt, 
+Die Datei die deine Gespeicherten Texte speichert werden lokal verschlüsselt, 
 kann nur vom selben Nutzer über die Anwendung entschlüsselt werden.
 
 ### 18.10.2025
