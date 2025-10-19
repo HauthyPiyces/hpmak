@@ -4,7 +4,7 @@ Dies ist ein kleines Projekt geteilet unter kollegen was die "wichtigsten" bzw. 
 
 Youtube Web Downloader
 
-Text Speicher (Titel (genutzt zum laden) + Inhalt (welcher gespeichert werden soll))
+Text Speicher mit lokaler Verschlüsselung (Titel (genutzt zum laden) + Inhalt (welcher gespeichert werden soll))
 
 Integrierter Festplatten/Ordner Scanner (WinDirStats https://windirstat.net/)
 
