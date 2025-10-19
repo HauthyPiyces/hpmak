@@ -26,6 +26,14 @@ Weitere Vorschläge werden von Freunden und Kollegen über diverse platformen ge
 
 ## Verlauf des Projekts
 
+### 19.10.2025
+
+Die Einstellungs datei wurde jetzt in den "Appdata" Ordner verlegt um einen Zentralen Ort zu haben,
+das selbe gilt für Ordner benötigt für Image recognition, für die Roblox Auto Rejoin Funktion als Beispiel. 
+
+Die Datei die deine Gespeicherten Texte speichert lokal verschlüsselt, 
+kann nur vom selben Nutzer über die Anwendung entschlüsselt werden.
+
 ### 18.10.2025
 
 Multi Download für den Youtube Web Downloader hinzugefügt.
