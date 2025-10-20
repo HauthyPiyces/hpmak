@@ -28,6 +28,8 @@ Weitere Vorschläge werden von Freunden und Kollegen über diverse platformen ge
 
 ### 20.10.2025
 
+Leichte UI änderungen,
+
 Roblox Auto-Rejoin überarbeitet damit es auch WIRKLICH drückt wenn das Roblox Fester sichtbar aber nicht im Fokus ist bzw ausgewählt.
 
 ### 19.10.2025
