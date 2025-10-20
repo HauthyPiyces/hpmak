@@ -26,6 +26,10 @@ Weitere Vorschläge werden von Freunden und Kollegen über diverse platformen ge
 
 ## Verlauf des Projekts
 
+### 20.10.2025
+
+Roblox Auto-Rejoin überarbeitet damit es auch WIRKLICH drückt wenn das Roblox Fester sichtbar aber nicht im Fokus ist bzw ausgewählt.
+
 ### 19.10.2025
 
 Die Einstellungs datei wurde jetzt in den "Appdata" Ordner verlegt um einen Zentralen Ort zu haben,
