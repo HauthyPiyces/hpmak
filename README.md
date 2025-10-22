@@ -8,8 +8,6 @@ Text Speicher mit lokaler Verschlüsselung (Titel (genutzt zum laden) + Inhalt (
 
 Integrierter Festplatten/Ordner Scanner (WinDirStats https://windirstat.net/)
 
-Integrierter und teilweise übersetzter DLC-Unlocker (Cream https://github.com/pointfeev/CreamInstaller)
-
 Ein Basic Autoklicker,
 
 RAM- und CPU limiter für Neugestartete anwendungen (zu niedrige limits = meist absturz),
