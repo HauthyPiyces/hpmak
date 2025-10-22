@@ -26,6 +26,10 @@ Weitere Vorschläge werden von Freunden und Kollegen über diverse platformen ge
 
 ## Verlauf des Projekts
 
+### 22.10.2025
+
+Bennenungen von Fenstern korrigiert und Option zum Minimieren hinzugefügt. 
+
 ### 20.10.2025
 
 Leichte UI änderungen,
