@@ -28,7 +28,9 @@ Weitere Vorschläge werden von Freunden und Kollegen über diverse platformen ge
 
 ### 22.10.2025
 
-Bennenungen von Fenstern korrigiert und Option zum Minimieren hinzugefügt. 
+Bennenungen von Fenstern korrigiert,
+Option zum Minimieren hinzugefügt,
+Cream aus der .exe entfernt.
 
 ### 20.10.2025
 
@@ -80,7 +82,7 @@ Ein Paar Einstellungsmöglichkeiten hinzugefügt für die Overlays (Andere Funkt
 
 Eigendes Ordner scanner system gelöscht, 
 WinDirStat integriert,
-Cream teilweise übersetzt und integriert (DLC-Unlocker).
+~~Cream teilweise übersetzt und integriert (DLC-Unlocker).~~
 
 
 ### 08.10.2025
