@@ -24,6 +24,10 @@ Weitere Vorschläge werden von Freunden und Kollegen über diverse platformen ge
 
 ## Verlauf des Projekts
 
+### 27.10.2025
+
+Möglichkeit das Haupt Fenster mit einem Hintergrund Bild/Video zu versehen hinzugefügt.
+
 ### 22.10.2025
 
 Bennenungen von Fenstern korrigiert,
