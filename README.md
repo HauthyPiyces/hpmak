@@ -26,7 +26,10 @@ Weitere Vorschläge werden von Freunden und Kollegen über diverse platformen ge
 
 ### 27.10.2025
 
-Möglichkeit das Haupt Fenster mit einem Hintergrund Bild/Video zu versehen hinzugefügt.
+Möglichkeit das Haupt Fenster mit einem Hintergrund Bild/Video zu versehen hinzugefügt,
+
+Lautstärke einstellung hinzugefügt,
+libvlc wird nichtmehr im ordner mit geliefert da es nun verschoben wird aus der exe selbst in den Appdata ordner.
 
 ### 22.10.2025
 
