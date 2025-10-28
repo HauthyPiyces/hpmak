@@ -24,6 +24,11 @@ Weitere Vorschläge werden von Freunden und Kollegen über diverse platformen ge
 
 ## Verlauf des Projekts
 
+### 28.10.2025
+
+Geplannte Updates vom UI ersetzt mit dem Projekt Verlauf,
+DPI Stufen "gefixed" die Anwendung wird immer mit 100% Skalierung öffnen was in Unschärfe endet war im moment die einfachste möglichkeit welche überarbeitet wird sobald wirklich nötig.
+
 ### 27.10.2025
 
 Möglichkeit das Haupt Fenster mit einem Hintergrund Bild/Video zu versehen hinzugefügt,
