@@ -39,6 +39,7 @@ Möglichkeit das Haupt Fenster mit einem Hintergrund Bild/Video zu versehen hinz
 
 Lautstärke einstellung hinzugefügt,
 libvlc wird nichtmehr im ordner mit geliefert da es nun verschoben wird aus der exe selbst in den Appdata ordner.
+
 <img width="797" height="203" alt="image" src="https://github.com/user-attachments/assets/b33e5ef8-5b34-4008-a3ca-2dfe89940e40" />
 
 ### 22.10.2025
@@ -60,11 +61,13 @@ das selbe gilt für Ordner benötigt für Image recognition, für die Roblox Aut
 
 Die Datei die deine Gespeicherten Texte speichert werden lokal verschlüsselt, 
 kann nur vom selben Nutzer über die Anwendung entschlüsselt werden.
+
 <img width="366" height="350" alt="image" src="https://github.com/user-attachments/assets/d742280f-c595-4f34-bf71-001a21019743" />
 
 ### 18.10.2025
 
 Multi Download für den Youtube Web Downloader hinzugefügt.
+
 <img width="400" height="451" alt="image" src="https://github.com/user-attachments/assets/54e2f412-d9ea-4551-b747-8b535f269292" />
 
 ### 17.10.2025
