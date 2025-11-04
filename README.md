@@ -20,6 +20,9 @@ Automatisches Rejoinen nach Internetausfall/Lag/AFK kick und alles was ähnnlich
 
 Weitere Vorschläge werden von Freunden und Kollegen über diverse platformen gegeben, hier können auch vorschläge hinterlassen werden alle sind willkommen.
 
+Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderungen im Verlauf mit geschickt wenn sie passieren.
+<img width="815" height="424" alt="image" src="https://github.com/user-attachments/assets/55cb3bcd-7555-49ba-9e57-6a709c6b4930" />
+
 
 
 ## Verlauf des Projekts
@@ -28,6 +31,7 @@ Weitere Vorschläge werden von Freunden und Kollegen über diverse platformen ge
 
 Geplannte Updates vom UI ersetzt mit dem Projekt Verlauf,
 DPI Stufen "gefixed" die Anwendung wird immer mit 100% Skalierung öffnen was in Unschärfe endet war im moment die einfachste möglichkeit welche überarbeitet wird sobald wirklich nötig.
+<img width="815" height="424" alt="image" src="https://github.com/user-attachments/assets/03f553c9-706f-4e6b-8a7e-292095cd0543" />
 
 ### 27.10.2025
 
@@ -35,6 +39,7 @@ Möglichkeit das Haupt Fenster mit einem Hintergrund Bild/Video zu versehen hinz
 
 Lautstärke einstellung hinzugefügt,
 libvlc wird nichtmehr im ordner mit geliefert da es nun verschoben wird aus der exe selbst in den Appdata ordner.
+<img width="797" height="203" alt="image" src="https://github.com/user-attachments/assets/b33e5ef8-5b34-4008-a3ca-2dfe89940e40" />
 
 ### 22.10.2025
 
@@ -55,10 +60,12 @@ das selbe gilt für Ordner benötigt für Image recognition, für die Roblox Aut
 
 Die Datei die deine Gespeicherten Texte speichert werden lokal verschlüsselt, 
 kann nur vom selben Nutzer über die Anwendung entschlüsselt werden.
+<img width="366" height="350" alt="image" src="https://github.com/user-attachments/assets/d742280f-c595-4f34-bf71-001a21019743" />
 
 ### 18.10.2025
 
 Multi Download für den Youtube Web Downloader hinzugefügt.
+<img width="400" height="451" alt="image" src="https://github.com/user-attachments/assets/54e2f412-d9ea-4551-b747-8b535f269292" />
 
 ### 17.10.2025
 
