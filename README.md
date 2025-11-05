@@ -30,7 +30,7 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 ### 5.11.2025
 
-Datei Ent- und Verschlüsselung hinzugefügt, bitte beachte aber das dies nur bei datein erstellt vom Programm selbst funktioniert, es nutzt ein ähnliches system wie beim text speicher,
+Datei Ent- und Verschlüsselung hinzugefügt, bitte beachte aber das dies nur bei Datein erstellt vom Programm selbst funktioniert, es nutzt ein ähnliches System wie beim Text Speicher,
 jedoch wird die Datei mit einem Password geschutzt das nicht vergessen werden sollte, wenn es vergessen wird kannst du nicht an die Datei rann,
 ebendso überprüft das Programm nicht ob es das richtige Password ist sondern entschlüsselt die datei einfach und wenn das Password falsch war funktioniert die Datei nicht.
 
