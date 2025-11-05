@@ -21,11 +21,19 @@ Automatisches Rejoinen nach Internetausfall/Lag/AFK kick und alles was ähnnlich
 Weitere Vorschläge werden von Freunden und Kollegen über diverse platformen gegeben, hier können auch vorschläge hinterlassen werden alle sind willkommen.
 
 Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderungen im Verlauf mit geschickt wenn sie passieren.
-<img width="815" height="424" alt="image" src="https://github.com/user-attachments/assets/55cb3bcd-7555-49ba-9e57-6a709c6b4930" />
+<img width="812" height="424" alt="image" src="https://github.com/user-attachments/assets/ff598e77-11ba-4367-8452-68396844a159" />
+
 
 
 
 ## Verlauf des Projekts
+
+### 5.11.2025
+
+Datei Ent- und Verschlüsselung hinzugefügt, bitte beachte aber das dies nur bei datein erstellt vom Programm selbst funktioniert, es nutzt ein ähnliches system wie beim text speicher,
+jedoch wird die Datei mit einem Password geschutzt das nicht vergessen werden sollte, wenn es vergessen wird kannst du nicht an die Datei rann,
+ebendso überprüft das Programm nicht ob es das richtige Password ist sondern entschlüsselt die datei einfach und wenn das Password falsch war funktioniert die Datei nicht.
+<img width="233" height="279" alt="image" src="https://github.com/user-attachments/assets/cf95248d-6d6a-4364-b8a5-e81ea89ad334" />
 
 ### 28.10.2025
 
