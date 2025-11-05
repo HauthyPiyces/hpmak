@@ -33,12 +33,14 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 Datei Ent- und Verschlüsselung hinzugefügt, bitte beachte aber das dies nur bei datein erstellt vom Programm selbst funktioniert, es nutzt ein ähnliches system wie beim text speicher,
 jedoch wird die Datei mit einem Password geschutzt das nicht vergessen werden sollte, wenn es vergessen wird kannst du nicht an die Datei rann,
 ebendso überprüft das Programm nicht ob es das richtige Password ist sondern entschlüsselt die datei einfach und wenn das Password falsch war funktioniert die Datei nicht.
+
 <img width="233" height="279" alt="image" src="https://github.com/user-attachments/assets/cf95248d-6d6a-4364-b8a5-e81ea89ad334" />
 
 ### 28.10.2025
 
 Geplannte Updates vom UI ersetzt mit dem Projekt Verlauf,
 DPI Stufen "gefixed" die Anwendung wird immer mit 100% Skalierung öffnen was in Unschärfe endet war im moment die einfachste möglichkeit welche überarbeitet wird sobald wirklich nötig.
+
 <img width="815" height="424" alt="image" src="https://github.com/user-attachments/assets/03f553c9-706f-4e6b-8a7e-292095cd0543" />
 
 ### 27.10.2025
