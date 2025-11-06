@@ -30,7 +30,8 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 ### 6.11.2025
 
-Die ganzen Dll's eingebettet in die .exe da tatsächlich nur native DLL's automatisch eingebaut werden, somit hatte das meiste einfach nicht funktioniert. 
+Die ganzen Dll's eingebettet in die .exe da tatsächlich nur native DLL's automatisch eingebaut werden, somit hatte das meiste einfach nicht funktioniert,
+Ich wusste dies leider davor nicht es ist mir grade beim testen aufgefallen.
 
 ### 5.11.2025
 
