@@ -28,6 +28,10 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 ## Verlauf des Projekts
 
+### 6.11.2025
+
+Die ganzen Dll's eingebettet in die .exe da tatsächlich nur native DLL's automatisch eingebaut werden, somit hatte das meiste einfach nicht funktioniert. 
+
 ### 5.11.2025
 
 Datei Ent- und Verschlüsselung hinzugefügt, bitte beachte aber das dies nur bei Datein erstellt vom Programm selbst funktioniert, es nutzt ein ähnliches System wie beim Text Speicher,
