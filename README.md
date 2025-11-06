@@ -28,6 +28,10 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 
 ## Verlauf des Projekts
 
+### 7.11.2025
+
+Nochmal ein bisschen die DLL verarbeitung überarbeitet um sicher zu stellen das alle Funktionen funktionieren werden.
+
 ### 6.11.2025
 
 Die ganzen Dll's eingebettet in die .exe da tatsächlich nur native DLL's automatisch eingebaut werden, somit hatte das meiste einfach nicht funktioniert,
