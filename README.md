@@ -10,7 +10,7 @@ Integrierter Festplatten/Ordner Scanner (WinDirStats https://windirstat.net/)
 
 Ein Basic Autoklicker,
 
-RAM- und CPU limiter für Neugestartete anwendungen (zu niedrige limits = meist absturz),
+~~RAM- und CPU limiter für Neugestartete anwendungen (zu niedrige limits = meist absturz),~~ auskommentiert, kommt vielleicht wieder (7.11.2025) 
 
 Ressourcen nutzungs Overlay (minimal umfärbbar)
 
@@ -29,8 +29,13 @@ Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderung
 ## Verlauf des Projekts
 
 ### 7.11.2025
+Ganze RAM/CPU limiter sektion "entfernt" alles wurde auskommentiert und kommt vielleicht später wieder,
+Code Einlöse System, gedacht um große mengen von codes nach einander einzulösen, kann rein theoretisch auch für was anderes verwendet werden.
 
-Nochmal ein bisschen die DLL verarbeitung überarbeitet um sicher zu stellen das alle Funktionen funktionieren werden.
+Nochmal ein bisschen die DLL verarbeitung überarbeitet um sicher zu stellen das alle Funktionen funktionieren werden,
+
+
+<img width="814" height="424" alt="image" src="https://github.com/user-attachments/assets/a9413ae2-1385-4886-a6ea-724a4a9fca94" />
 
 ### 6.11.2025
 
