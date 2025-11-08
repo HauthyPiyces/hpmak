@@ -8,6 +8,8 @@ Text Speicher mit lokaler Verschlüsselung (Titel (genutzt zum laden) + Inhalt (
 
 Integrierter Festplatten/Ordner Scanner (WinDirStats https://windirstat.net/)
 
+Winrate Automatisierung (Limbus Company)
+
 Ein Basic Autoklicker,
 
 ~~RAM- und CPU limiter für Neugestartete anwendungen (zu niedrige limits = meist absturz),~~ auskommentiert, kommt vielleicht wieder (7.11.2025) 
