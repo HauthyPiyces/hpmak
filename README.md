@@ -21,13 +21,22 @@ Automatisches Rejoinen nach Internetausfall/Lag/AFK kick und alles was ähnnlich
 Weitere Vorschläge werden von Freunden und Kollegen über diverse platformen gegeben, hier können auch vorschläge hinterlassen werden alle sind willkommen.
 
 Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderungen im Verlauf mit geschickt wenn sie passieren.
-<img width="812" height="420" alt="image" src="https://github.com/user-attachments/assets/628a4d10-2ca5-4761-a2cd-a27b3bc1afb9" />
+<img width="814" height="423" alt="image" src="https://github.com/user-attachments/assets/1ba0e53c-a1e1-4cb0-af8f-b2ac5e4bd40c" />
+
 
 
 
 
 
 ## Verlauf des Projekts
+
+### 8.11.2025
+
+WINRATE!
+Für Limbus Company eine Automatisierung die Winrate drückt und dann wieder zurück tabt
+
+<img width="625" height="101" alt="image" src="https://github.com/user-attachments/assets/5f59ee8b-bbb7-4f0c-8765-e2808b447eef" />
+
 
 ### 7.11.2025
 Ganze RAM/CPU limiter sektion "entfernt" alles wurde auskommentiert und kommt vielleicht später wieder,
