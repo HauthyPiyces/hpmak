@@ -21,7 +21,8 @@ Automatisches Rejoinen nach Internetausfall/Lag/AFK kick und alles was ähnnlich
 Weitere Vorschläge werden von Freunden und Kollegen über diverse platformen gegeben, hier können auch vorschläge hinterlassen werden alle sind willkommen.
 
 Momentan sieht das Programm so aus und zukünftig werden Bilder bei veränderungen im Verlauf mit geschickt wenn sie passieren.
-<img width="812" height="424" alt="image" src="https://github.com/user-attachments/assets/ff598e77-11ba-4367-8452-68396844a159" />
+<img width="812" height="420" alt="image" src="https://github.com/user-attachments/assets/628a4d10-2ca5-4761-a2cd-a27b3bc1afb9" />
+
 
 
 
