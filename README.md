@@ -1,4 +1,4 @@
-# Migriert zu https://github.com/HauthyPiyces/HPMultitool
+# Migriert zu https://hputility.com/software/HPUtility-Setup.exe
 
 
 Dies ist ein kleines Projekt geteilet unter kollegen was die "wichtigsten" bzw. nützlichsten tools die man so vielleicht brauchen könnte an seinem PC einbinden soll, im selben Moment dient es als training für mich.
